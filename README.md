@@ -14,6 +14,17 @@
 - <a href="https://github.com/Azure/azure-functions-openapi-extension">OepnSource Contributon 2021</a> `Azure Function OpenAPI Extensions` | Lead mentee (21.08 ~ 21.12)
 - <a href="https://github.com/DDD-6">DDD 6th</a> | Server Developer (21.07 ~ 21.12)
 
+<h3>Language</h3>
+
+- Html, Css, Js
+- Java
+
+<h3>Certification</h3>
+
+- 네트워크 관리사 2급
+- SQLD
+
+
 <h3>Etc</h3>
 
 - 2024 항해커톤 최우수상 - 3팀 프론트엔드 <a href="https://github.com/hanghae-hackathon/Fact-Checker-FE">FactChecker</a> 서비스 개발  (24.05.31 ~ 24.06.01)
