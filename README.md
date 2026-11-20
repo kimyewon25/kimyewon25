@@ -5,7 +5,7 @@
 - I'm Yewon
 - Studying as a Front-end Engineer
 - Live in South Korea 🇰🇷
-- Hankuk University of Foriegn Studies - Department of ELLT, CES🏛️ 
+- Hankuk University of Foriegn Studies - Department of ELLT, CES, EDUCATION🏛️ 
 
 <h3>Career</h3>
 
@@ -18,6 +18,7 @@
 
 - Html, Css, Js
 - Java
+- -Python
 
 <h3>Certification</h3>
 
