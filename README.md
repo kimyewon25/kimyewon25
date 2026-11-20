@@ -18,7 +18,7 @@
 
 - Html, Css, Js
 - Java
-- -Python
+- Python
 
 <h3>Certification</h3>
 
